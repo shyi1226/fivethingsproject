@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.fivethingsproject.MainActivity">
+
+        <Button
+            android:layout_width="match_parent"
+            android:id="@+id/tsimview"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_margin="4sp"
+            android:scaleType="centerCrop"
+            android:textSize="30sp"
+            android:textColor="@android:color/white"
+            android:onClick="openTsimShaTsuiActivity"
+            android:text="Tsim Sha Tsui"
+            android:background="@drawable/tsimshatsui" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="4sp"
+            android:layout_marginLeft="4sp"
+            android:textSize="30sp"
+            android:textColor="@android:color/white"
+            android:onClick="openCentralActivity"
+            android:text="Central"
+            android:scaleType="fitXY"
+            android:background="@drawable/central" />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_margin="4sp"
+            android:textSize="30sp"
+            android:textColor="@android:color/white"
+            android:text="Yau Ma Tei"
+            android:onClick="openYauMaTeiActivity"
+            android:scaleType="centerCrop"
+            android:background="@drawable/temple" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="4sp"
+            android:layout_marginLeft="4sp"
+            android:onClick="openMacauActivity"
+            android:scaleType="centerCrop"
+            android:textSize="30sp"
+            android:textColor="@android:color/white"
+            android:text="Macau"
+            android:background="@drawable/macau" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_margin="4sp"
+            android:textSize="30sp"
+            android:textColor="@android:color/white"
+            android:text="Lantau"
+            android:onClick="openLantauActivity"
+            android:scaleType="centerCrop"
+            android:background="@drawable/lantau" />
+
+</LinearLayout>

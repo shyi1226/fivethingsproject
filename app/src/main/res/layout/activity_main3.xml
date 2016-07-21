@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:padding="10sp"
+            android:scaleType="fitXY"
+            android:src="@drawable/peak"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10sp"
+            android:text="Victoria Peak"
+            android:textColor="@android:color/black"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10sp"
+            android:text="Hong Kong Island's highest point"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10sp"
+            android:text="Elevation: 554 m"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15sp"
+            android:text="Victoria Peak is a mountain in the western half of Hong Kong Island and a landmark of the Hong Kong skyline.At 1,811 feet or 552 meters high it has long been the address of choice for the Taipans of old and new. With the commanding views over Victoria Harbour, it is understandable why it is some of the most sought after real estate in the world.
+The summit is not open for visitors, it is actually occupied by a radio tower. When people refer to 'The Peak' they mean the surrounding facilities where the viewing platforms and concessions are." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:padding="10sp"
+            android:textColor="@android:color/holo_orange_dark"
+            android:text="+) The Peak Tram"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@android:color/holo_orange_dark"
+            android:paddingLeft="10sp"
+            android:text="+) Madame Tussauds"
+            />
+    </LinearLayout>
+</ScrollView>
