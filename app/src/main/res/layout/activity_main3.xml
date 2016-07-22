@@ -44,8 +44,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="15sp"
-            android:text="Victoria Peak is a mountain in the western half of Hong Kong Island and a landmark of the Hong Kong skyline.At 1,811 feet or 552 meters high it has long been the address of choice for the Taipans of old and new. With the commanding views over Victoria Harbour, it is understandable why it is some of the most sought after real estate in the world.
-The summit is not open for visitors, it is actually occupied by a radio tower. When people refer to 'The Peak' they mean the surrounding facilities where the viewing platforms and concessions are." />
+            android:text="     Victoria Peak is a mountain in the western half of Hong Kong Island and a landmark of the Hong Kong skyline.At 1,811 feet or 552 meters high it has long been the address of choice for the Taipans of old and new. With the commanding views over Victoria Harbour, it is understandable why it is some of the most sought after real estate in the world.
+    The summit is not open for visitors, it is actually occupied by a radio tower. When people refer to 'The Peak' they mean the surrounding facilities where the viewing platforms and concessions are." />
 
         <TextView
             android:layout_width="wrap_content"

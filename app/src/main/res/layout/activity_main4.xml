@@ -34,8 +34,25 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingLeft="10sp"
-            android:text="Rating: 3.9 ★ ★ ★ ★ ☆"
+            android:text="Rating: 3.9  ★ ★ ★ ★ ☆"
             android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15sp"
+            android:text="  Temple spice crabs is a seafood restaurant at the intersection of Temple Street and Nanking Street. Spicy crab's price is depend on current price of crabs. (In July, 2016 I pay for $200)
+   To get there, take the MRT to Jordan Station and go out Exit A. Head west on Jordan Road and take a right at Temple Street (3 blocks). Walk one more block and you will be at the intersection of Temple Street and Nanking Street."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:padding="10sp"
+            android:textColor="@android:color/holo_orange_dark"
+            android:text="+) Under Bridge Spicy Crab"
+            />
+
 
     </LinearLayout>
 </ScrollView>

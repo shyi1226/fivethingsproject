@@ -14,5 +14,36 @@
             android:padding="10sp"
             android:scaleType="fitXY"
             android:src="@drawable/casino" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10sp"
+            android:text="The Venetial Casino"
+            android:textColor="@android:color/black"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10sp"
+            android:text="Address: Estrada da Baia de Nossa Senhora da Esperanca, Macau"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10sp"
+            android:text="Phone: +853 2882 8888"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="15sp"
+            android:text="  Set on Macau's Cotai Strip, this Vegas-style, Venice-themed luxury resort and casino lies 3 km from Taipa island and 8 km from Macau Tower Convention and Entertainment Centre.
+   Classic Italian-style suites include sunken living room areas and marble bathrooms with separate tubs and showers. They also feature free Wi-Fi, tea and coffeemaking facilities, and flat-screen TVs with cable channels and movies on demand.
+   Varied dining options include Japanese, Italian and Indian fine dining, as well as a food court. There's an extensive shopping mall, glitzy live shows and 4 outdoor pools. Gondola rides through the resort's canals are also available."/>
+
 </LinearLayout>
     </ScrollView>

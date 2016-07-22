@@ -57,7 +57,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="15sp"
-        android:text="Hong Kong Cultural Centre is one of the major performing arts venues in Hong Kong, located in Salisbury Road, Tsim Sha Tsui, Kowloon, adjacent to Hong Kong Space Museum and Hong Kong Museum of Art. Hong Kong Cultural Centre with a concert hall, theater and three major theater venues offer a variety of concerts, opera, drama, dance and film, the center also has exhibition halls, rehearsal rooms and conference rooms. Now managed by the Leisure and Cultural Services Department."
+        android:text="  Hong Kong Cultural Centre is one of the major performing arts venues in Hong Kong, located in Salisbury Road, Tsim Sha Tsui, Kowloon, adjacent to Hong Kong Space Museum and Hong Kong Museum of Art.
+ Hong Kong Cultural Centre with a concert hall, theater and three major theater venues offer a variety of concerts, opera, drama, dance and film, the center also has exhibition halls, rehearsal rooms and conference rooms. Now managed by the Leisure and Cultural Services Department."
         />
 
 </LinearLayout>
